@@ -8,5 +8,15 @@
 3. Run tests:
   npm test
 
+**What the app does and how to run it:**
+
 **Need:**
 Node.js v22.15.0
+
+
+**Steps to build the project**
+
+**Details/Dependencies**
+
+**How to use the container**
+
